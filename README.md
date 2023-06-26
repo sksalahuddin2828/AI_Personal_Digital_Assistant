@@ -1,4 +1,4 @@
-# AI_Digital_Assistant
+# Artificial Intelligence: (Personal Digital Assistant)
 
 <h3>🌟 Introducing Solace: AI Personal Assistant 🌟</h3>
 
