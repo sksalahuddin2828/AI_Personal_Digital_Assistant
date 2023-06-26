@@ -20,9 +20,6 @@ So, are you ready to embark on an extraordinary adventure with Solace? Unlock a 
 
 The future awaits, and Solace is here to lead the way. Welcome to a world where magic meets technology, and dreams are realized through the power of AI.</p>
 
-
-<h3>Description about Artificial Intelligence</h3>
-
 <h3>🌟 Unleash the Brilliance: Meet Solace, My Astonishing AI Luminary! 🌟</h3>
 
 <p>Step into the realm of infinite wonder, where technology dances with imagination, and behold Solace - a breathtaking marvel that transcends the boundaries of an AI personal assistant. Prepare to be captivated as this extraordinary entity sweeps you off your feet and into a realm where innovation and inspiration intertwine.
