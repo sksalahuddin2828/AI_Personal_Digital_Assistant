@@ -1,23 +1,11 @@
-# pip install pyttsx3
-# pip install googletrans
-# pip install --upgrade googletrans==4.0.0-rc1
-# install kalpana voice for hindi :)
-
-# After install Kalpana voice you must need to check your voice list
-# Also install Hindi from your computer " Language Settings "
-
-# import pyttsx3
-# engine = pyttsx3.init()
-# voices = engine.getProperty("voices")
-# for voice in voices:
-#     print(voice)
-
 """
+This project has been created for,
 Establishment of IT/Hi-Tech Park at District Level (12 District) Project.
 Bangladesh Hi-Tech Park Authority
 ICT Ministry, ICT Tower, Agargaon, Dhaka.
 Course Name: Introduction to Python Programming
 """
+
 import pyttsx3 
 import webbrowser
 import datetime
@@ -117,3 +105,18 @@ if __name__ == '__main__':
                 speak("Google स्पीच रिकग्निशन सर्विस से परिणाम नहीं प्राप्त कर सका;{0}".format(e))
                 print("Could not request results from Google Speech Recognition service;{0}".format(e))
               
+
+
+# pip install pyttsx3
+# pip install googletrans
+# pip install --upgrade googletrans==4.0.0-rc1
+# install kalpana voice for hindi :)
+
+# After install Kalpana voice you must need to check your voice list
+# Also install Hindi from your computer " Language Settings "
+
+# import pyttsx3
+# engine = pyttsx3.init()
+# voices = engine.getProperty("voices")
+# for voice in voices:
+#     print(voice)
