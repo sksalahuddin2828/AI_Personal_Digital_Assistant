@@ -4,14 +4,8 @@ Establishment of IT/Hi-Tech Park at District Level (12 District) Project.
 Bangladesh Hi-Tech Park Authority
 ICT Ministry, ICT Tower, Agargaon, Dhaka.
 Course Name: Introduction to Python Programming
-
-Student Full Name: Sk. Salahuddin,
-Address: House/Holding No. 173,
-Village/Road: Maheshwar Pasha Kalibari,
-Post Office: KUET, Postal Code: 9203,
-Police Station: Daulatpur,
-District: Khulna, Mobile No. +8801767902828
 """
+
 import speech_recognition as sr
 from googletrans import Translator
 from tabulate import tabulate
