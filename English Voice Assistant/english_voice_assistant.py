@@ -564,7 +564,7 @@ def main(user_input):
     elif "what is your name" in user_input or "your name" in user_input: 
         what_is_your_name()
 
-    elif "ask" in user_input:
+    elif "ask" in user_input or "askew" in user_input:
         computational_geographical_question()
 
     else:
